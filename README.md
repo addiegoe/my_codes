@@ -1,2 +1,2 @@
 # my_codes
-Coding projects for school and fun
+A portfolio of coding projects done for OSU's online BS in Computer Science Program as well as for fun and practice.
